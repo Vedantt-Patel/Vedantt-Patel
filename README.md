@@ -64,9 +64,4 @@
 
 ---
 
-## 🏆 GitHub Contribution Graph:
-![Snake animation](https://raw.githubusercontent.com/{Vedantt-Patel}/{Vedantt-Patel}/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ✨ **From Vision to Reality—One Algorithm at a Time!** 🚀
