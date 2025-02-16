@@ -4,6 +4,8 @@
   # Hey there! I'm Vedant Patel 👋
   **ML & AI Enthusiast | API & Backend Development | Innovator**
 
+</div>
+
   ## 🚀 About Me
 - 🎓 **B.Tech in Computer Science & Engineering** (CGPA: 9.23) @ Nirma University
 - 🔥 Passionate about **AI, ML, NLP, Computer Vision & Backend Development**
@@ -12,7 +14,7 @@
 - 🌱 Constantly learning **Deep Learning, GenAI, Language Models and Vision Models**
 - 🏆 **Hackathon finalist & award-winning problem solver**
 - 💬 **Always open to collaborations & interesting discussions!**
-</div>
+
 
 ---
 
@@ -46,9 +48,10 @@
 
 ## 📌 Top Projects
 - 🔹 [**Kavach - AI-Powered eKYC**](https://github.com/Vedantt-Patel/Kavach-eKYC-platform)
-- 🔹 [**Insight-360-R - AI Paper Summarizer**](https://github.com/Vedantt-Patel/Insight-360-R)
+- 🔹 [**Insight-360-R - AI based Research Paper to PPT Generator**](https://github.com/Vedantt-Patel/Insight-360-R)
 - 🔹 [**VidhyaEval - Speech Quality Evaluator**](https://github.com/Vedantt-Patel/Speech-Quality-Evaluator)
 - 🔹 [**Jobify - Job Portal API**](https://github.com/Vedantt-Patel/Jobify-nodejs-job-portal)
+- 🔹 [**Together4U - Club Management System**](https://github.com/Vedantt-Patel/Club-Management)
 
 ---
 
