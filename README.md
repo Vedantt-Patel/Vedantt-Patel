@@ -15,7 +15,7 @@
 - 🏆 **Hackathon finalist & award-winning problem solver**
 - 💬 **Always open to collaborations & interesting discussions!**
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Vedantt-Patel&color=blue)
 ---
 
 ## 🌐 Connect with me:
