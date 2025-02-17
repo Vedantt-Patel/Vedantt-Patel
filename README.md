@@ -7,7 +7,6 @@
 </div>
 
   ## 🚀 About Me
-- 🎓 **B.Tech in Computer Science & Engineering** (CGPA: 9.23) @ Nirma University
 - 🔥 Passionate about **AI, ML, NLP, Computer Vision & Backend Development**
 - 💡 Finalist @ **JPMorgan Chase & Co. Code for Good 2024**
 - 💻 Experienced in **Backend APIs, Full-Stack & AI Models**
