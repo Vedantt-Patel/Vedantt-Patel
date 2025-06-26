@@ -8,13 +8,13 @@
 </div>
 
   ## 🚀 About Me
-- 🚀 **AI Enthusiast | Full-Stack Innovator | 2x Hackathon Winner**
-- 👨‍💻 Building the future with LangChain, LangGraph, FastAPI, Flask, & Next.js
-- 🧠 Deep into GenAI, LLMs, RAG Systems, Computer Vision, and Backend Engineering
-- 🏆 Finalist **@ JPMorgan Chase & Co. Code for Good 2024** | Multiple-time Hackathon Champion
-- 🔧 Skilled in crafting production-grade APIs, LLM workflows, and AI-powered platforms
-- 🌍 Working on an AI-powered educational platform to revolutionize how students learn
-- 🤝 Open to collabs, side-projects, and game-changing ideas!
+- **AI Enthusiast | Full-Stack Innovator | 2x Hackathon Winner**
+- Building the future with LangChain, LangGraph, FastAPI, Flask, & Next.js
+- Deep into GenAI, LLMs, RAG Systems, Computer Vision, and Backend Engineering
+- Finalist **@ JPMorgan Chase & Co. Code for Good 2024** | Multiple-time Hackathon Champion
+- Skilled in crafting production-grade APIs, LLM workflows, and AI-powered platforms
+- Working on an AI-powered educational platform to revolutionize how students learn
+- Open to collabs, side-projects, and game-changing ideas!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vedantt-Patel&color=blue)
 ---
