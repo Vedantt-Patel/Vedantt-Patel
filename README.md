@@ -26,6 +26,7 @@
   <a href="https://www.kaggle.com/vedantkpatel"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/></a>
   <a href="mailto:vedxnt2912@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://medium.com/@Vedant-Patel"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+  and many more...
 </p>
 
 ---
